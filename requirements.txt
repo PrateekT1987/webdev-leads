@@ -1,0 +1,11 @@
+# Runtime dependencies (pinned to known-good minimums)
+pydantic>=2.6
+pydantic-settings>=2.2
+requests>=2.31
+pandas>=2.0
+openpyxl>=3.1
+tenacity>=8.2
+
+# Development / CI
+pytest>=8.0
+ruff>=0.5
